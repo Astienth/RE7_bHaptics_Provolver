@@ -7,9 +7,9 @@
 
 ☕ If you wanna show some support you can buy me a coffee : https://www.buymeacoffee.com/astienth4
 
-<b>Supported devices :</b>
-bHaptics Vest and arms and tactvisor
-Protube devices
+<b>Supported devices :</b></br>
+bHaptics Vest and arms and tactvisor</br>
+Protube devices</br>
 
 # <b>Manual installation</b></br>
 
@@ -20,8 +20,8 @@ Install the praydog mod, all information and instructions can be found here : [h
 **OR**
 
 directly from these files : </br>
-if you are using the latest Ray tracing update: [RE7.zip](https://github.com/praydog/REFramework-nightly/releases/download/latest/RE7.zip)
-if you are using an old version **WITHOUT** ray tracing: [RE7_TDB49.zip](https://github.com/praydog/REFramework-nightly/releases/download/latest/RE7_TDB49.zip)
+if you are using the latest Ray tracing update: [RE7.zip](https://github.com/praydog/REFramework-nightly/releases/download/latest/RE7.zip)</br>
+if you are using an old version **WITHOUT** ray tracing: [RE7_TDB49.zip](https://github.com/praydog/REFramework-nightly/releases/download/latest/RE7_TDB49.zip)</br>
 
 Extract its content into the game root folder, the folder containing the re7.exe.
 
